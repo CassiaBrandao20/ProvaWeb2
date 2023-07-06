@@ -1,0 +1,26 @@
+.container-lista {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+
+  body {
+    width: 100%;
+    padding: 20px;
+    background-color: #a4d9d4;
+    font-size: 40px;
+  }
+
+  button{
+    font-size: 40px;
+    font-weight: bold;
+  }
+
+  input {
+    font-size: 40px;
+  }
+
+  select{
+    font-size: 40px;
+  }
